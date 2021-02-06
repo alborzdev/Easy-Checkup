@@ -18,12 +18,7 @@ public class checkupController {
     	btnCheckupOne.setOnAction(event -> {
     		System.out.println("Clicked");
     	});
-    	btnCheckupTwo.setOnAction(event -> {
-    		System.out.println("Clicked");
-    	});
-    	btnCheckupThree.setOnAction(event -> {
-    		System.out.println("Clicked");
-    	});
+    	
     }
 
 
