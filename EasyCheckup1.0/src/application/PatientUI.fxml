@@ -17,12 +17,12 @@
             <Font size="48.0" />
          </font>
       </Button>
-      <Label layoutX="142.0" layoutY="14.0" prefHeight="50.0" prefWidth="430.0" text="Have you expereinced any..." textFill="WHITE">
+      <Label layoutX="142.0" layoutY="14.0" prefHeight="50.0" prefWidth="430.0" text="Have you experienced any..." textFill="WHITE">
          <font>
             <Font size="36.0" />
          </font>
       </Label>
-      <Label fx:id="lblSymptom" layoutX="252.0" layoutY="85.0" prefHeight="60.0" prefWidth="211.0" text="Diarrhea?" textFill="WHITE">
+      <Label fx:id="lblSymptom" layoutX="246.0" layoutY="77.0" prefHeight="60.0" prefWidth="211.0" text="Diarrhea?" textFill="WHITE">
          <font>
             <Font size="48.0" />
          </font>

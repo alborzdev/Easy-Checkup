@@ -1,6 +1,5 @@
 package application;
 
-
 import java.io.IOException;
 
 import javafx.animation.FadeTransition;
@@ -14,7 +13,7 @@ import javafx.scene.control.Label;
 import javafx.stage.Stage;
 import javafx.util.Duration;
 
-public class AnswerQuestionController {
+public class QuestionThreeController {
 
     @FXML
     private Button btnYes;
@@ -48,7 +47,7 @@ public class AnswerQuestionController {
     }
     
     public void changeScene(javafx.event.ActionEvent event) throws IOException {
-    	Parent questionChooserParent = FXMLLoader.load(getClass().getResource("/application/QuestionTwo.fxml"));
+    	Parent questionChooserParent = FXMLLoader.load(getClass().getResource("/application/EndingScene.fxml"));
     	Scene questionChooserScene = new Scene(questionChooserParent);
     	Stage window = (Stage) ((Node)event.getSource()).getScene().getWindow();
     	FadeTransition ft = new FadeTransition();
@@ -59,7 +58,5 @@ public class AnswerQuestionController {
     	ft.play();
 		window.setScene(questionChooserScene);
 		window.show();
-    	
     }
-
 }
