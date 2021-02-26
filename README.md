@@ -9,4 +9,4 @@ Our application will help the healthcare space as having a better understanding 
 
 Machine learning algorithms could be trained on this data to ensure the right medicine is being diagnosed for the patient (looks at allergy history, previous serious symptoms). At the moment, the design mainly revolves around medicine, but this is easily scalable to dental care, cancer patients, surgery and much more. The design intends on revolutionizing health care with the power of data science.
 
-https://user-images.githubusercontent.com/59661629/109243454-f2684f00-77aa-11eb-990e-e6dbad9e296e.png
+<img width="696" alt="Screen Shot 2021-02-25 at 8 49 23 PM" src="https://user-images.githubusercontent.com/59661629/109243454-f2684f00-77aa-11eb-990e-e6dbad9e296e.png">
