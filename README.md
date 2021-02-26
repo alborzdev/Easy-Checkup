@@ -15,3 +15,12 @@ Here are some screenshots of the app:
 
 
 <img width="710" alt="Screen Shot 2021-02-25 at 8 51 11 PM" src="https://user-images.githubusercontent.com/59661629/109243590-322f3680-77ab-11eb-891a-c889c8ec3cf8.png">
+
+
+<img width="703" alt="Screen Shot 2021-02-25 at 8 51 54 PM" src="https://user-images.githubusercontent.com/59661629/109243650-4e32d800-77ab-11eb-8cde-148414fba549.png">
+
+
+<img width="694" alt="Screen Shot 2021-02-25 at 8 52 21 PM" src="https://user-images.githubusercontent.com/59661629/109243682-5c80f400-77ab-11eb-9389-9bbc09253185.png">
+
+
+<img width="697" alt="Screen Shot 2021-02-25 at 8 52 09 PM" src="https://user-images.githubusercontent.com/59661629/109243665-54c14f80-77ab-11eb-8a07-1d743bc047f8.png">
