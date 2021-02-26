@@ -15,13 +15,7 @@ Doctors POV
 
 <img width="696" alt="Screen Shot 2021-02-25 at 8 49 23 PM" src="https://user-images.githubusercontent.com/59661629/109243454-f2684f00-77aa-11eb-990e-e6dbad9e296e.png">
 
-
-
-<img width="699" alt="Screen Shot 2021-02-25 at 8 56 07 PM" src="https://user-images.githubusercontent.com/59661629/109243983-e3ce6780-77ab-11eb-8b8b-ae2a1a51a88c.png">
-
 <img width="705" alt="Screen Shot 2021-02-25 at 8 56 56 PM" src="https://user-images.githubusercontent.com/59661629/109244050-ffd20900-77ab-11eb-8299-495440692c67.png">
-
-<img width="693" alt="Screen Shot 2021-02-25 at 8 56 24 PM" src="https://user-images.githubusercontent.com/59661629/109244007-ed57cf80-77ab-11eb-96c0-d77472868d74.png">
 
 Patients POV
 
@@ -30,6 +24,9 @@ Patients POV
 
 <img width="697" alt="Screen Shot 2021-02-25 at 8 52 09 PM" src="https://user-images.githubusercontent.com/59661629/109243665-54c14f80-77ab-11eb-8a07-1d743bc047f8.png">
 
+<img width="699" alt="Screen Shot 2021-02-25 at 8 56 07 PM" src="https://user-images.githubusercontent.com/59661629/109243983-e3ce6780-77ab-11eb-8b8b-ae2a1a51a88c.png">
+
+<img width="693" alt="Screen Shot 2021-02-25 at 8 56 24 PM" src="https://user-images.githubusercontent.com/59661629/109244007-ed57cf80-77ab-11eb-96c0-d77472868d74.png">
 
 <img width="694" alt="Screen Shot 2021-02-25 at 8 52 21 PM" src="https://user-images.githubusercontent.com/59661629/109243682-5c80f400-77ab-11eb-9389-9bbc09253185.png">
 
