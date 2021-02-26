@@ -11,11 +11,15 @@ Machine learning algorithms could be trained on this data to ensure the right me
 
 Here are some screenshots of the app:
 
+Doctors POV
+
 <img width="696" alt="Screen Shot 2021-02-25 at 8 49 23 PM" src="https://user-images.githubusercontent.com/59661629/109243454-f2684f00-77aa-11eb-990e-e6dbad9e296e.png">
 
 
 <img width="710" alt="Screen Shot 2021-02-25 at 8 51 11 PM" src="https://user-images.githubusercontent.com/59661629/109243590-322f3680-77ab-11eb-891a-c889c8ec3cf8.png">
 
+
+Patients POV
 
 <img width="703" alt="Screen Shot 2021-02-25 at 8 51 54 PM" src="https://user-images.githubusercontent.com/59661629/109243650-4e32d800-77ab-11eb-8cde-148414fba549.png">
 
@@ -24,4 +28,6 @@ Here are some screenshots of the app:
 
 
 <img width="694" alt="Screen Shot 2021-02-25 at 8 52 21 PM" src="https://user-images.githubusercontent.com/59661629/109243682-5c80f400-77ab-11eb-9389-9bbc09253185.png">
+
+The app is currently only a UI concept and does not include any solid backend code, it was made in about 5 hours (had to finish 2 other design challenges in the time given as well), thanks for checking it out!
 
