@@ -30,5 +30,5 @@ Patients POV
 
 <img width="694" alt="Screen Shot 2021-02-25 at 8 52 21 PM" src="https://user-images.githubusercontent.com/59661629/109243682-5c80f400-77ab-11eb-9389-9bbc09253185.png">
 
-The app is currently only a UI concept and does not include any solid backend code, it was made in about 5 hours (had to finish 2 other design challenges in the time given as well), thanks for checking it out!
+The app is currently only a UI concept and does not include any solid backend code, it designed and coded in about 4 hours (had to finish 2 other design challenges in the time given as well), thanks for checking it out!
 
