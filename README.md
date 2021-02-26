@@ -1,5 +1,5 @@
 # EasyCheckup
-This is an application coded primarily by myself and designed by my team of 3, for the coding challenge segment of the Lassonde Games Tri-hackathon!
+This is an application coded primarily by myself and designed by my team of 3, for the coding challenge segment of the Lassonde Games Tri-hackathon (placed 3rd out of 30 teams)!
 
 The challenge was to design and develop a software system to improve the autonomy and accessibility of healthcare among the senior population in Toronto's waterfront district (in the year 2030), that is planned to be a technology, startup and tourist hub.
 
