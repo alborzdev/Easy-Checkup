@@ -9,6 +9,8 @@ Our application will help the healthcare space as having a better understanding 
 
 Machine learning algorithms could be trained on this data to ensure the right medicine is being diagnosed for the patient (looks at allergy history, previous serious symptoms). At the moment, the design mainly revolves around medicine, but this is easily scalable to dental care, cancer patients, surgery and much more. The design intends on revolutionizing health care with the power of data science.
 
+This application was coded using Java, and JavaFX's scenebuilder (had to learn it on the spot)
+
 Here are some screenshots of the app:
 
 Doctors POV
